@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum 5</string>
+    <string name="nama">Nama</string>
+    <string name="nomor">nomor</string>
+    <string name="descnomor">descnomor</string>
+    <string name="namakontak">namakontak</string>
+</resources>
